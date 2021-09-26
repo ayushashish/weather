@@ -1,0 +1,20 @@
+.weather-elements {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 900px;
+}
+
+.city {
+    padding-top: 7rem;
+    text-align: center;
+    background-image: url('../svgs/loc.svg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-position-y: 90%;
+    background-size: 25px;
+}
+
+.city h3 {
+    color: #0B5351;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

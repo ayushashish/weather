@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    padding-bottom: 1rem;
+    position: fixed;
+    background-color: white;
+    top: 0;
+}
+
+.header h1 {
+    color: #0B5351;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
